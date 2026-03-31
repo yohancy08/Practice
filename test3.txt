@@ -1,1 +1,2 @@
-Test3.txt file is added
+This is Test3 file 
+Please find Test3
